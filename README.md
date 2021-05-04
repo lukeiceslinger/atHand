@@ -9,7 +9,7 @@
     * Tools &gt; Android SDK Build-tools 19 or newer
     * Android 4.4 (API 19) &gt; SDK Platform
     
-2. Extract "res.rar" file in it's initital location "atHand\app\src\main\".
+2. Extract "res.rar" file in it's initial location "atHand\app\src\main\".
 
 # Author
 * **Saransh Sharma** - [GitHub](https://github.com/lukeiceslinger)
