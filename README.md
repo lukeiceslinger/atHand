@@ -7,6 +7,8 @@
     * Tools &gt; Android SDK Platform-tools 19 or newer
     * Tools &gt; Android SDK Build-tools 19 or newer
     * Android 4.4 (API 19) &gt; SDK Platform
+    
+2. UNZIP "res.rar" file in atHand\app\src\main\
 
 # Author
 
