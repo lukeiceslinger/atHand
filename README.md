@@ -12,7 +12,10 @@
 2. Extract "res.rar" file in it's initial location "atHand\app\src\main\".
 
 # Author
+* **Vaishali Tyagi**
 * **Saransh Sharma** - [GitHub](https://github.com/lukeiceslinger)
-
+* **Shubhnit Bajaj**
+* **Ritesh Dey**
+* **Aman Kumar Gupta**
 # Application
 <img src="https://github.com/lukeiceslinger/atHand/blob/main/App.gif" width="250" height="500" />
