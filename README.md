@@ -15,4 +15,4 @@
 * **Saransh Sharma** - [GitHub](https://github.com/lukeiceslinger)
 
 
-<img src="https://github.com/lukeiceslinger/atHand/blob/main/App.gif" width="40" height="40" />
+<img src="https://github.com/lukeiceslinger/atHand/blob/main/App.gif" width="200" height="500" />
