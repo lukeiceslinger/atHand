@@ -18,4 +18,4 @@
 * **Ritesh Dey**
 * **Aman Kumar Gupta**
 # Application
-<img src="https://github.com/lukeiceslinger/atHand/blob/main/App.gif" width="250" height="500" />
+<img src="https://github.com/lukeiceslinger/atHand/blob/main/App.gif" width="275" height="500" />
