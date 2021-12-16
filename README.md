@@ -1,6 +1,6 @@
 # atHand - At you finger tips.
    atHand is an application designed to ease the process of
-    choosing and cooking a recipe by provide user the recipe with available ingredients in their kitchen.
+   choosing and cooking a recipe with available ingredients in user's kitchen.
     
 # Getting Started
 1. Open Window &gt; Android SDK Manager, make sure you have these modules
